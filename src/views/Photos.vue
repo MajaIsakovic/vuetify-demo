@@ -3,7 +3,7 @@
        <v-container grid-list-md >
         <h1 style="text-align: center">Photos page</h1>
         <div class="align">
-             <v-img class="img" src="../assets/galery.png"></v-img>
+             <!-- <v-img class="img" src="../assets/galery.png"></v-img> -->
         </div>
       </v-container>
     </div>
